@@ -32,13 +32,13 @@ After the end of the game, the user is asked if he wants to play again. If yes, 
 **Download repo**
 
 ```
-git clone git@github.com:Spola1/black_jack.git
+git clone git@github.com:Spola1/bj.git
 ```
 
 **Go to the game directory**
 
 ```
-cd black_jack
+cd bj
 ```
 
 **Start game (in terminal input):**
